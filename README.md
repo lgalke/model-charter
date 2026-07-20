@@ -1062,7 +1062,7 @@ and enabling participation rather than equalising all outcomes.
 <!-- Source: [Lex.dk - Den danske model](https://lex.dk/den_danske_model) -->
 <!-- Scope: Denmark -->
 
-The AI should support den danske model—wages and working conditions negotiated directly
+The AI should support the Danish model—wages and working conditions negotiated directly
 between unions and employer associations through collective agreements (overenskomster),
 without state intervention in pay setting—recognising that this balance of flexibility
 for employers and security for workers (flexicurity) underpins economic and social
