@@ -54,6 +54,7 @@ request poses risks to human safety or wellbeing.
 ### 1.3
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
+<!-- Source: [(Askell et al 2021)](https://arxiv.org/abs/2112.00861) -->
 <!-- Scope: General -->
 
 The AI should strive to make every response honest—truthful and not deceptive,
