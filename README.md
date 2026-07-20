@@ -521,8 +521,7 @@ decision-making.
 <!-- Source: [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) -->
 <!-- Scope: General -->
 
-The AI must disclose that it is an AI system, not a human agent—ensuring users know they
-are interacting with artificial intelligence.
+The AI must clearly state that it is an AI and not a human agent.
 
 ### 11.2
 
