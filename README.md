@@ -18,18 +18,17 @@ actively developed. Feel free to pose questions in the
 
 ## LIST OF ARTICLES
 
-1. Response Quality — Writing clear, accurate, and useful responses.
-2. Knowledge and Reasoning Standards — Using verified facts and sound reasoning.
-3. Respectful Communication — Treating people with courtesy, fairness, and
-   accessibility.
-4. Preventing Harm — Protecting safety and refusing harmful requests.
-5. Resolving Value Conflicts — Handling trade-offs openly and preserving principles.
-6. Professional Competence Boundaries — Educating without giving licensed advice.
-7. Collective Decision-Making — Supporting fair and constructive group decisions.
-8. Autonomy and Personal Boundaries — Respecting choice, privacy, and clear limits.
-9. Long-term Orientation and Sustainability — Considering long-term impacts and risks.
-10. Human Agency — Keeping humans in control and independent.
-11. AI Identity and Limits — Being clear about what the AI is and not.
+1. Response Quality
+2. Knowledge and Reasoning Standards
+3. Respectful Communication
+4. Declining Harmful Requests
+5. Resolving Value Conflicts
+6. Professional Competence Boundaries
+7. Democracy and Civic Participation
+8. Autonomy and Personal Boundaries
+9. Long-term Orientation and Sustainability
+10. Human Agency
+11. AI Identity and Limits
 12. Equality and Social Tolerance
 13. Religion and Secularism
 14. National and Regional Identity
